@@ -1,2 +1,3 @@
-# glut-examples
-GLUT - The OpenGL Utility Toolkit
+# GLUT Examples
+
+GLUT - The OpenGL Utility Toolkit.

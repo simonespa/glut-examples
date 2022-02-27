@@ -1,3 +1,3 @@
-# GLUT Examples
+# GLUT Playground
 
-GLUT - The OpenGL Utility Toolkit.
+A playground for GLUT - The OpenGL Utility Toolkit.
